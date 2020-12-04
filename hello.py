@@ -1,1 +1,1 @@
-print("Hello Világ!!!")
+print("Hello Gál Bence!!!")
